@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyViewsCollections</string>
+    <string name="title_activity_scheme_chart_sample">SchemeChartSampleActivity</string>
+</resources>
